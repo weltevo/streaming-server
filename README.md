@@ -1,1 +1,1 @@
-# streaming-evo-engine
+# streaming-server
